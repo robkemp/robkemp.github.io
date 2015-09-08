@@ -1,5 +1,9 @@
 ---
 layout: post
-title: Page Under Construction
+title: New Website!
 ---
-# Check back soon for content
+Hi there reader! Thanks for stopping by.  I'm hoping that this website will be a great resource to both myself and the community.  I'm planning to post some projects, instructions, and other tidbits that I've wanted to see or link to those I've used in my own journey.  The posts will likely center on R, Shiny, Amazon, Github, and other technical topics related to data science, but may also veer toward substantive topics like demography.  
+
+Thanks for checking in and check back soon!
+
+rk
